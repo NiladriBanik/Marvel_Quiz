@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800178288980",
+    "project_id": "marvel-quiz-4398e",
+    "storage_bucket": "marvel-quiz-4398e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800178288980:android:eeef17ec846eccf5f9b0c1",
+        "android_client_info": {
+          "package_name": "com.example.quizeee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800178288980-hfscaqbuaqvv541v2brnbp9ig3pe0hmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOW7WpW_b_lETYgFB7BG8oz_lVCrRnjEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800178288980-hfscaqbuaqvv541v2brnbp9ig3pe0hmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
