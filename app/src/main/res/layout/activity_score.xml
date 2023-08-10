@@ -54,7 +54,7 @@
         android:layout_marginTop="416dp"
         android:text="CONGRATULATION"
         android:textColor="@color/white"
-        android:textSize="40sp"
+        android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.491"
